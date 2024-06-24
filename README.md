@@ -1,2 +1,2 @@
-# landingpage_rare_js
-it'll be a landing page totally build with JavaScript objects  
+# Profile_Box
+it'll be a landing page or homepage built with JavaScript using objects  
