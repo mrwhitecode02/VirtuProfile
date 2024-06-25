@@ -1,0 +1,72 @@
+/* Special */
+
+:root {
+  --background: black; 
+  --word-color: aqua;
+  --div-background: red;
+}
+
+
+/* HTML tags */
+
+body {
+    background: var(--background);
+    color: var(--word-color);
+}
+
+/******************/
+
+
+/* ID */
+
+#container {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+/******************/
+
+
+/* Class */
+
+.div_container_title {
+   background: var(--div-background);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.div_container_title h1 {
+    font-size: 35px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.circle_round_user_interface {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.circle_round_user_interface:hover {
+    background: linear-gradient(90deg, red, white, blue);
+}
+
+.user_interface {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100dvh;
+    font-size: 100px;
+}
+
+
+/******************/
