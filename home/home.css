@@ -1,0 +1,14 @@
+body {
+    background-color: blue;
+}
+
+h1 {
+    color: red;
+    font-size: 25px;
+    font-style: italic;
+}
+
+#hello {
+    font-size: 45px;
+    color: green;
+}
