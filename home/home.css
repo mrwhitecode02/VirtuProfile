@@ -1,14 +1,28 @@
+/* HTML tags */
+
 body {
-    background-color: blue;
+    background: linear-gradient(90deg, magenta, red, pink);
 }
 
-h1 {
-    color: red;
-    font-size: 25px;
-    font-style: italic;
+/**************************/
+
+
+/* class */
+
+
+
+/**************************/
+
+
+/* ID */
+
+#container_user {
+    font-size: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 150px;
 }
 
-#hello {
-    font-size: 45px;
-    color: green;
-}
+
+/**************************/
